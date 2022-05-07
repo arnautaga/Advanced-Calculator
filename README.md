@@ -1,1 +1,3 @@
-# Physics-Calculator
+OBJECTIVE: To create a physics operations calculator with a simple graphical interface where you will be asked to indicate (if possible with buttons) what you want to calculate, for example kinematics operations, and then on a subpage, enter what you want to calculate, for example the acceleration and in the next level the data will be entered, leaving the data you don't know blank (if possible in boxes) and pressing calculate will show you the solution.
+
+BASIC LIBRARIES OF THE PROGRAM: I will use the Tkinter library to be able to make the graphical interfaces. I will use the math library to import some constants that are needed in these operations, for example Pi
