@@ -1,11 +1,6 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-#
 # I'm going to import the libraries
 import tkinter as tk
-import math
 from tkinter import ttk, messagebox
-from functools import partial
 
 
 # I'm creating the GUI
