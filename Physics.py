@@ -1,6 +1,6 @@
 # I'm going to import the libraries
 import tkinter as tk
-from tkinter import ttk, messagebox
+from tkinter import ttk
 
 
 # I'm creating the GUI
